@@ -1,0 +1,21 @@
+.header {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  background-color: burlywood;
+  padding: 0px 80px;
+}
+
+.header span {
+  color: rebeccapurple;
+}
+
+.header-logo {
+  font-family: "Calibri", Times, serif;
+  font-size: 2rem;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
+
